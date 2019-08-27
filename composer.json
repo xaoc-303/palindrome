@@ -1,0 +1,13 @@
+{
+    "name": "xaoc-303/palindrome",
+    "require": {
+        "php": ">7.1",
+        "ext-mbstring": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    },
+    "autoload": {
+        "files": ["src/palindrome.php"]
+    }
+}
